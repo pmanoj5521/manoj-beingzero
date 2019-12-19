@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pmanoj5521/manoj-beingzero/issues"
   },
-  "homepage": "https://github.com/pmanoj5521/manoj-beingzero#readme"
+  "homepage": "https://github.com/pmanoj5521/manoj-beingzero#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
