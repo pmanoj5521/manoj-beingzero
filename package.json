@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/pmanoj5521/manoj-beingzero#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
